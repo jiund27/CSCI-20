@@ -1,2 +1,2 @@
-# CSCI-20
+# Jon Iund
 Class Repository
