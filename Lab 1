@@ -1,0 +1,18 @@
+// Lab 1 -- Hello world!
+//
+// Programmer name: Jon Iund
+// Date completed:  08/28/2019
+
+package main
+
+import "fmt"
+
+func main() {
+	fmt.Println("Hello world!")
+
+	fmt.Println("My name is Jon, and my major is Computer Science.")
+
+	fmt.Println("This is my 4th semester at Butte College.")
+
+	fmt.Println("One of my favorite pastimes is assembling computers.")
+}
